@@ -1,0 +1,17 @@
+.yellow{
+    border: 25px rgb(255, 238, 160) dashed;
+    max-width: 250px;
+    text-align: center;
+    border-radius: 5px;
+}
+.red{
+    border: 10px red dotted;
+}
+.beige{
+    border: 19px burlywood inset;
+    background-color: black;
+    color: white;
+    font-size: 90px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif; 
+}
